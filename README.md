@@ -77,6 +77,7 @@ Create a .env file inside the backend directory and add the following:
 ```
 PORT=any_port_number
 MONGO_URI=your_mongodb_connection_string
+SECRET_KEY=your_secret_key 
 ```
 
 ### **3️⃣ Start the Backend Server**
