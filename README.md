@@ -85,7 +85,7 @@ SECRET_KEY=your_secret_key
 npm start
 ```
 
-## 🎨 Frontend Setup (ReactJS + Material-UI)
+## 🎨 Frontend Setup (ReactJS)
 
 ### **1️⃣ Install Dependencies**
 Navigate to the frontend directory and install dependencies:
