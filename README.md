@@ -56,9 +56,7 @@ This project is a **Todo application** with a **ReactJS frontend** and a **Node.
 | POST   | `/registration`  | User registration      |
 | POST   | `/login`         | User login             |
 | POST   | `/input`         | Create a new task      |
-| PUT    | `/EditTask`      | Edit an existing task  |
 | GET    | `/getAllTheTask` | Retrieve all tasks     |
-| DELETE | `/DeleteTask`    | Delete a task          |
 
 ---
 
