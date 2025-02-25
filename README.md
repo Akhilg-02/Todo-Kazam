@@ -96,5 +96,5 @@ npm install
 
 ### **2️⃣ Start the Frontend**
 ```
-npm start
+npm run dev
 ```
