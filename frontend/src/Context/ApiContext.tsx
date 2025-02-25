@@ -35,7 +35,7 @@ interface ApiContextProps {
   toggleTaskStatus: (taskId: string, status: "pending" | "completed") => Promise<void>;
 }
 
-const API_URL: string = "https://todo-kazam.onrender.com" // http://localhost:8000/
+const API_URL: string = "https://todo-kazam.onrender.com" // http://localhost:8000/ (Use locally on system)
 
 const ApiContext = createContext<ApiContextProps | undefined>(undefined);
 
